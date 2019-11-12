@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372857823272",
+    "firebase_url": "https://codegen-mediapp.firebaseio.com",
+    "project_id": "codegen-mediapp",
+    "storage_bucket": "codegen-mediapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372857823272:android:212cd886d7a8df23",
+        "android_client_info": {
+          "package_name": "com.example.codegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372857823272-atnem558jr0to6qrih542lvbnaujg7u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codegen",
+            "certificate_hash": "bd18d73f7a1d50259f8a966b991feb509b56c936"
+          }
+        },
+        {
+          "client_id": "372857823272-8p6ejm1ic8hugm6r8q81oova221a6coa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPHtaCNTlabYQGhFDkAfjlviFVVE8X0hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372857823272-8p6ejm1ic8hugm6r8q81oova221a6coa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
