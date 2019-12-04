@@ -235,7 +235,7 @@ class ChatScreenState extends State<ChatScreen> {
                           ? Material(
                               child: CircleAvatar(
                                 backgroundImage:
-                                    NetworkImage(peerAvatar),
+                                    NetworkImage(peerAvatar==null ? "assets/avatar.png":peerAvatar),
                               ),
                               borderRadius: BorderRadius.all(
                                 Radius.circular(18.0),
